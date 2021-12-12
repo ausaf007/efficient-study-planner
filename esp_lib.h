@@ -229,21 +229,3 @@ struct date getMinDate(struct date dt[] , int n)
 
     return min_date;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
