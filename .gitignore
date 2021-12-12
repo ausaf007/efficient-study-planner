@@ -82,5 +82,5 @@ dkms.conf
 # generated directories
 bin/
 obj/
-
+Resources/
 # End of https://www.toptal.com/developers/gitignore/api/c,c++,codeblocks
