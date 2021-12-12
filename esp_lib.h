@@ -1,3 +1,11 @@
+/*
+
+ESP-Lib is a simple library file that has the commonly used 
+functions and structures used by Student.c and University.c programs.
+
+*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<windows.h>
