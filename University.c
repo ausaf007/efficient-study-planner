@@ -90,17 +90,3 @@ void getNextExamSchedule(struct subject sub_arr[],int n_s){
     fclose (outfile);
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
