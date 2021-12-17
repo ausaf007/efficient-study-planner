@@ -1,10 +1,7 @@
 /*
-
 ESP-Lib is a simple library file that has the commonly used 
 functions and structures used by Student.c and University.c programs.
-
 */
-
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -188,12 +185,6 @@ int getDaysInBetween(struct date dt1,struct date dt2){
     return number_of_days;
 
 }
-
-
-
-
-
-
 
 struct date getMinDate(struct date dt[] , int n)
 {
